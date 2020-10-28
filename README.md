@@ -1,4 +1,6 @@
 # Hard-rock
+# OverView
+ Hard Rock is a single page JavaScript user friendly Application.
 ## Features
 1. Hard-rock is a Lyrics Searching website.
 2. A user easily can find any lyrics by this site.
@@ -20,6 +22,11 @@ https://rakhiakter.github.io/hard-rock/
 # Resume
 
 [https://drive.google.com/file/d/1r0AJmoRTKkRU9aZjMwurN2SfN1cHxCyP/view?usp=sharing](https://drive.google.com/file/d/1r0AJmoRTKkRU9aZjMwurN2SfN1cHxCyP/view?usp=sharing)
+
+# Packages
+1. JavaScript
+2. JQuery
+3. Bootstrap
 
 # ScreenShots
 ![Home](home.png)
