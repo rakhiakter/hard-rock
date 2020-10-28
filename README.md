@@ -19,6 +19,8 @@ https://rakhiakter.github.io/hard-rock/
 
 # Resume
 
+[https://drive.google.com/file/d/1r0AJmoRTKkRU9aZjMwurN2SfN1cHxCyP/view?usp=sharing](https://drive.google.com/file/d/1r0AJmoRTKkRU9aZjMwurN2SfN1cHxCyP/view?usp=sharing)
+
 # ScreenShots
 ![Home](home.png)
 ![Title](title.png)
